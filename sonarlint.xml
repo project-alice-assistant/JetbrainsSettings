@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="bindingEnabled" value="true" />
+    <option name="fileExclusions">
+      <list>
+        <option value="DIRECTORY:tests/**" />
+        <option value="FILE:test_*.py" />
+      </list>
+    </option>
+    <option name="projectKey" value="project-alice-assistant_ProjectAlice" />
+    <option name="serverId" value="Project Alice" />
+  </component>
+</project>
